@@ -1,9 +1,10 @@
                                                       **Notebook 1: SARSA and Other RL Techniques**
                                                       
-Introduction to Reinforcement Learning
+**Introduction to Reinforcement Learning**
 
-Basics: Overview of reinforcement learning principles, including the agent-environment interaction model, and the learning process.
-Markov Decision Processes (MDP)
+**Basics:** 
+Overview of reinforcement learning principles, including the agent-environment interaction model, and the learning process.
+**Markov Decision Processes (MDP)**
 MDP Overview: 
 Explanation of MDP components—states, actions, rewards, and policies. This provides a theoretical foundation for the RL algorithms implemented.
 
@@ -24,7 +25,7 @@ Comparison: Comparative discussion on the differences between SARSA and Q-learni
 
                                                       **Notebook 2: GridWorld Environment and Q-Learning**
 
-Introduction to GridWorld
+**Introduction to GridWorld**
 
 Overview: 
 Introduction to the GridWorld environment, a grid-based setting where an agent navigates to achieve goals. This environment is used to demonstrate RL concepts and algorithms.
